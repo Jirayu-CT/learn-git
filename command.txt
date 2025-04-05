@@ -1,0 +1,5 @@
+---ตั้งค่าเริ่มต้น---
+git config --global user.name "jirayu"
+git config --global user.email "jirayu.ct05@gmail.com"
+git config --global -l
+
